@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Crystal Color Picker",
+  "version": "1.0",
+  "description": "Pick colors from any website",
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
